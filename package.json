@@ -1,6 +1,6 @@
 {
   "name": "hubot-omikuji-sheet",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A Hubot script to choose one at random from the data of Google Spreadsheet",
   "main": "index.js",
   "scripts": {
